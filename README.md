@@ -52,8 +52,8 @@ A modern, responsive social media analytics dashboard built with React.js, Tailw
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
-cd social-media-dashboard
+git clone https://github.com/Brijes987/SociaLite-.git
+cd SociaLite-
 ```
 
 2. Install dependencies:
